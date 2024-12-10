@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**KerlynD/KerlynD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const aboutMe = {
+    name: {
+        first: "Kerlyn",
+        last: "Difo",
+        pronouns: 'he/him/his',
+    },
+    experience: {
+        curr: 'Data Engineer at Columbia University',
+        prev: 'LifeSci Campus Ambassador'
+    },
+    workingOn: 'Side Projects',
+    learning: 'How to build a large-scale, high-throughput platforms',
+    socials: {
+        linkedin: '<https://www.linkedin.com/in/kerlyn-difo-81059b23b/>',
+        email: '<difokerlyn19@gmail.com>',
+    }
+}
