@@ -8,10 +8,10 @@
     },
     experience: {
         curr: 'Data Engineer at Columbia University',
-        prev: 'LifeSci Campus Ambassador'
+        curr: 'LifeSci Campus Ambassador'
     },
-    workingOn: 'Side Projects',
-    learning: 'How to build a large-scale, high-throughput platforms',
+    workingOn: 'FullStack Development',
+    learning: 'Client Side Web Development',
     socials: {
         linkedin: '<https://www.linkedin.com/in/kerlyn-difo-81059b23b/>',
         email: '<difokerlyn19@gmail.com>',
