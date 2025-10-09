@@ -9,9 +9,10 @@ const aboutMe = {
         pronouns: 'he/him/his'
     },
     experience: {
-        curr1: 'Software Engineer Intern @ Capital One',
-        curr2: 'Data Engineer @ Columbia University Irving Medical Center',
+        incoming: 'Software Engineer Intern @ Datadog',
+        curr: 'Data Engineer @ Columbia University Irving Medical Center',
         prev: 'Data Analyst @ DOHMH'
+        prev2: 'Software Engineer Intern @ Capital One',
     },
     socials: {
         portfolio: 'https://kerlyndifo.com',
