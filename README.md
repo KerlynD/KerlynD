@@ -11,12 +11,12 @@ const aboutMe = {
     experience: {
         incoming: 'Software Engineer Intern @ Datadog',
         curr: 'Data Engineer @ Columbia University Irving Medical Center',
-        prev: 'Data Analyst @ DOHMH'
-        prev2: 'Software Engineer Intern @ Capital One',
+        prev: 'Software Engineer Intern @ Capital One',
+        prev2: 'Data Analyst @ DOHMH'
     },
     socials: {
         portfolio: 'https://kerlyndifo.com',
-        linkedin: 'https://www.linkedin.com/in/kerlyn-difo/',
+        linkedin: 'https://www.linkedin.com/in/kerlyn-angel-difo/',
         email: 'difokerlyn19@gmail.com'
     }
 }
