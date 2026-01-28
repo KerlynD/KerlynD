@@ -9,10 +9,10 @@ const aboutMe = {
         pronouns: 'he/him/his'
     },
     experience: {
-        incoming: 'Software Engineer Intern @ Datadog',
-        curr: 'Data Engineer @ Columbia University Irving Medical Center',
+        curr: 'Software Engineer Intern @ Datadog',
+        prev: 'Data Engineer @ Columbia University Irving Medical Center',
         prev: 'Software Engineer Intern @ Capital One',
-        prev2: 'Data Analyst @ DOHMH'
+        prev: 'Data Analyst @ DOHMH'
     },
     socials: {
         portfolio: 'https://kerlyndifo.com',
@@ -43,13 +43,13 @@ const aboutMe = {
 ## Current Skills
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,java,cpp,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,ts,js,java,cpp,r)](https://skillicons.dev)
 
 ### Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=aws,mongodb,postgres,sqlite,docker,react,nextjs,vercel)](https://skillicons.dev)
 
 ### Working On
-[![My Skills](https://skillicons.dev/icons?i=go,spring,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,spring)](https://skillicons.dev)
 
 ---
 
