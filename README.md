@@ -34,9 +34,9 @@ const aboutMe = {
   *Hackathon Winner · MongoDB · WebSocket · Google Translate API*  
   → [GitHub Link](https://github.com/ehab20011/p-hacks)
 
-- **Job Hunt Tracker Bot**: Discord bot to track application stages across companies  
-  *Python, SQLite, and Discord API*  
-  → [GitHub Link](https://github.com/KerlynD/discord-job-tracker-bot)
+- **URL Monitor**: Distributed URL Monitoring system with real-time health checks and Datadog Agent integration for metrics, logs, and tracing
+  *Golang, SQLite, Docker, Kubernetes, Datadog Agent & Metrics*  
+  → [GitHub Link](https://github.com/KerlynD/URL-Monitor)
 
 ---
 
