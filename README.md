@@ -52,12 +52,3 @@ const aboutMe = {
 ### Working On
 [![My Skills](https://skillicons.dev/icons?i=rust,spring)](https://skillicons.dev)
 
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KerlynD&show_icons=true&theme=gruvbox&hide=prs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerlynD&layout=compact&theme=gruvbox" />
-</p>
-
