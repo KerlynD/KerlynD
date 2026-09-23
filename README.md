@@ -1,6 +1,6 @@
 # Hello, I'm Angel! 
 
-```javascript
+```c
 const aboutMe = {
     name: {
         first: "Kerlyn",
