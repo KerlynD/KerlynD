@@ -18,7 +18,7 @@ const aboutMe = {
         prev: 'Data Analyst @ DOHMH'
     },
     socials: {
-        portfolio: 'https://kerlyndifo.com',
+        portfolio: 'https://angeldifo.com',
         linkedin: 'https://www.linkedin.com/in/kerlyn-angel-difo/',
         email: 'difokerlyn19@gmail.com'
     }
