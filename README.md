@@ -9,7 +9,6 @@ const aboutMe = {
         pronouns: 'he/him/his'
     },
     experience: {
-        incoming: 'Software Engineer L3 @ Google',
         curr: 'AI Engineer Intern @ hg_catalyst',
         prev: 'Software Engineer Intern @ Google',
         prev: 'Software Engineer Intern @ Datadog',
